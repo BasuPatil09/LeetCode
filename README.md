@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Stack
 |  |
 | ------- |
