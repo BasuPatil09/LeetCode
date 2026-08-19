@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Stack
 |  |
 | ------- |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Math
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
