@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0155-min-stack](https://github.com/BasuPatil09/LeetCode/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Tree
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/BasuPatil09/LeetCode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
