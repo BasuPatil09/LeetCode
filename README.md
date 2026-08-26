@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/BasuPatil09/LeetCode/tree/master/0061-rotate-list) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
