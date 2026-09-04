@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/BasuPatil09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/BasuPatil09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0101-symmetric-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/BasuPatil09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/BasuPatil09/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/BasuPatil09/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0662-maximum-width-of-binary-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
