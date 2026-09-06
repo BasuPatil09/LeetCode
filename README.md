@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
 ## Design
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BasuPatil09/LeetCode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BasuPatil09/LeetCode/tree/master/0056-merge-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
