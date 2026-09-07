@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/BasuPatil09/LeetCode/tree/master/0101-symmetric-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/BasuPatil09/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
 | [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
@@ -148,4 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
