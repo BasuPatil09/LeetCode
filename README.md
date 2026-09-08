@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/BasuPatil09/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/BasuPatil09/LeetCode/tree/master/0242-valid-anagram) |
 ## Design
 |  |
 | ------- |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/BasuPatil09/LeetCode/tree/master/0056-merge-intervals) |
+| [0242-valid-anagram](https://github.com/BasuPatil09/LeetCode/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/BasuPatil09/LeetCode/tree/master/0242-valid-anagram) |
 ## Backtracking
 |  |
 | ------- |
