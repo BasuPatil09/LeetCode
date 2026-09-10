@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/BasuPatil09/LeetCode/tree/master/0061-rotate-list) |
 | [0151-reverse-words-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0443-string-compression](https://github.com/BasuPatil09/LeetCode/tree/master/0443-string-compression) |
 ## Greedy
 |  |
 | ------- |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/BasuPatil09/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/BasuPatil09/LeetCode/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/BasuPatil09/LeetCode/tree/master/0443-string-compression) |
 ## Backtracking
 |  |
 | ------- |
