@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
 | [0328-odd-even-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
+| [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 | [0725-split-linked-list-in-parts](https://github.com/BasuPatil09/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1367-linked-list-in-binary-tree](https://github.com/BasuPatil09/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/BasuPatil09/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
@@ -212,4 +215,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
