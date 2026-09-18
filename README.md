@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/BasuPatil09/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [1367-linked-list-in-binary-tree](https://github.com/BasuPatil09/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Stack
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
 | [0912-sort-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0912-sort-an-array) |
 ## Monotonic Stack
 |  |
@@ -216,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
