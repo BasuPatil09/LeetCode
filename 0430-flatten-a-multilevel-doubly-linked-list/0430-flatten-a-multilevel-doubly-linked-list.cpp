@@ -1,24 +1,14 @@
 class Solution {
 public:
-    Node* flatten(Node* head) {
-    for (Node* h = head; h; h = h->next) {
-        if (h->child) {
-            Node* next = h->next;
+    Node* flatten(Node* head, Node* rest = nullptr) {
+    if (!head) return rest;
 
-            h->next = h->child;
-            h->next->prev = h;
-            h->child = NULL;
+    head->next = flatten(head->child, flatten(head->next, rest));
 
-            Node* p = h->next;
-            while (p->next)
-                p = p->next;
+    if (head->next)
+        head->next->prev = head;
 
-            p->next = next;
-
-            if (next)
-                next->prev = p;
-        }
-    }
+    head->child = nullptr;
 
     return head;
 }
