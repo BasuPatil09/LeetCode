@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/BasuPatil09/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -246,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/BasuPatil09/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
