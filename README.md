@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
+| [2396-strictly-palindromic-number](https://github.com/BasuPatil09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/BasuPatil09/LeetCode/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/BasuPatil09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/BasuPatil09/LeetCode/tree/master/0338-counting-bits) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/BasuPatil09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
