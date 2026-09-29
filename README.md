@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/BasuPatil09/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/BasuPatil09/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/BasuPatil09/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/BasuPatil09/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/BasuPatil09/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/BasuPatil09/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0341-flatten-nested-list-iterator](https://github.com/BasuPatil09/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0387-first-unique-character-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
