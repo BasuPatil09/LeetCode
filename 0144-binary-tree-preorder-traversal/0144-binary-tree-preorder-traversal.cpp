@@ -1,20 +1,12 @@
 class Solution {
 public:
+    vector<int>result;
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> res;
-
-        preorder(root, res);
-        return res;        
-    }
-
-private:
-    void preorder(TreeNode* node, std::vector<int>& res) {
-        if (node == nullptr) {
-            return;
+        if(root){
+            result.push_back(root->val);
+            preorderTraversal(root->left);
+            preorderTraversal(root->right);
         }
-
-        res.push_back(node->val);
-        preorder(node->left, res);
-        preorder(node->right, res);
-    }    
+        return result;
+    }
 };
