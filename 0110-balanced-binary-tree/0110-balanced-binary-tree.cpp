@@ -1,22 +1,18 @@
 class Solution {
 public:
-    bool balanced = true;
-
-    int dfs(TreeNode* node) {
-        if (node == nullptr)
-            return 0;
-
-        int l = dfs(node->left);
-        int r = dfs(node->right);
-
-        if (abs(l - r) > 1)
-            balanced = false;
-
-        return max(l, r) + 1;
-    }
-
     bool isBalanced(TreeNode* root) {
-        dfs(root);
-        return balanced;
+        return dfs(root).first;        
     }
+
+private:
+    pair<bool, int> dfs(TreeNode* node) {
+        if (!node) return {true, 0};
+        
+        auto [leftBalanced, leftHeight] = dfs(node->left);
+        auto [rightBalanced, rightHeight] = dfs(node->right);
+        
+        bool isBalanced = leftBalanced && rightBalanced && abs(leftHeight - rightHeight) <= 1;
+        
+        return {isBalanced, 1 + max(leftHeight, rightHeight)};
+    }    
 };
