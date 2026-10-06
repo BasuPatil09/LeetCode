@@ -1,18 +1,19 @@
 class Solution {
+    int maxDiff = 0;
 public:
     bool isBalanced(TreeNode* root) {
-        return dfs(root).first;        
+        helper(root, 0);
+        return maxDiff <= 1;
     }
-
-private:
-    pair<bool, int> dfs(TreeNode* node) {
-        if (!node) return {true, 0};
+    
+    int helper(TreeNode* node, int depth) {
+        if (!node) return depth;
         
-        auto [leftBalanced, leftHeight] = dfs(node->left);
-        auto [rightBalanced, rightHeight] = dfs(node->right);
+        int left = helper(node->left, depth + 1);
+        int right = helper(node->right, depth + 1);
         
-        bool isBalanced = leftBalanced && rightBalanced && abs(leftHeight - rightHeight) <= 1;
+        maxDiff = max(maxDiff, abs(left - right));
         
-        return {isBalanced, 1 + max(leftHeight, rightHeight)};
-    }    
+        return max(left, right);
+    }
 };
