@@ -1,36 +1,26 @@
-
 class Solution {
-public:
-
-    bool dfs(TreeNode* root, TreeNode* subroot) {
-        if (!root && !subroot) {
+    bool isSame(TreeNode* root,TreeNode* subRoot){
+        if(subRoot!=nullptr&&root!=nullptr){
+            if(root->val==subRoot->val){
+                return isSame(root->left,subRoot->left)&&isSame(root->right,subRoot->right);
+            }
+            return false;
+        }
+        if(subRoot==root){
             return true;
         }
-
-        if (!root || !subroot) {
-            return false;
-        }
-
-        if (root->val != subroot->val) {
-            return false;
-        }
-
-        bool temp = dfs(root->left, subroot->left) &&
-                    dfs(root->right, subroot->right);
-
-        return temp;
+        else{return false;}
     }
-
-    bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        if (!root) {
-            return false;
+public:
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        if(root!=nullptr){
+            if(root->val==subRoot->val){
+                if(isSame(root,subRoot)){
+                    return true;
+                }
+            }
+            return isSubtree(root->left,subRoot)||isSubtree(root->right,subRoot);
         }
-
-        if (dfs(root, subroot)) {
-            return true;
-        }
-
-        return isSubtree(root->left, subroot) ||
-               isSubtree(root->right, subroot);
+        return false;
     }
 };
