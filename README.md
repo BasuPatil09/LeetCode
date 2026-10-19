@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/BasuPatil09/LeetCode/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/BasuPatil09/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BasuPatil09/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/BasuPatil09/LeetCode/tree/master/0621-task-scheduler) |
 ## Design
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/BasuPatil09/LeetCode/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/BasuPatil09/LeetCode/tree/master/0260-single-number-iii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasuPatil09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/BasuPatil09/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/BasuPatil09/LeetCode/tree/master/0621-task-scheduler) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/BasuPatil09/LeetCode/tree/master/0260-single-number-iii) |
 | [0338-counting-bits](https://github.com/BasuPatil09/LeetCode/tree/master/0338-counting-bits) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/BasuPatil09/LeetCode/tree/master/0139-word-break) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Memoization
 |  |
 | ------- |
