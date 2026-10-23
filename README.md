@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/BasuPatil09/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/BasuPatil09/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/BasuPatil09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/BasuPatil09/LeetCode/tree/master/0846-hand-of-straights) |
 ## Design
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/BasuPatil09/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/BasuPatil09/LeetCode/tree/master/0641-design-circular-deque) |
 | [0692-top-k-frequent-words](https://github.com/BasuPatil09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/BasuPatil09/LeetCode/tree/master/0846-hand-of-straights) |
 | [0907-sum-of-subarray-minimums](https://github.com/BasuPatil09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/BasuPatil09/LeetCode/tree/master/0134-gas-station) |
 | [0621-task-scheduler](https://github.com/BasuPatil09/LeetCode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/BasuPatil09/LeetCode/tree/master/0846-hand-of-straights) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/BasuPatil09/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/BasuPatil09/LeetCode/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/BasuPatil09/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0846-hand-of-straights](https://github.com/BasuPatil09/LeetCode/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
