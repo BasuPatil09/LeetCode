@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/BasuPatil09/LeetCode/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/BasuPatil09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/BasuPatil09/LeetCode/tree/master/0382-linked-list-random-node) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/BasuPatil09/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2396-strictly-palindromic-number](https://github.com/BasuPatil09/LeetCode/tree/master/2396-strictly-palindromic-number) |
 ## Reservoir Sampling
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/BasuPatil09/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/BasuPatil09/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0846-hand-of-straights](https://github.com/BasuPatil09/LeetCode/tree/master/0846-hand-of-straights) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/BasuPatil09/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Design
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/BasuPatil09/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/BasuPatil09/LeetCode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/BasuPatil09/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [2073-time-needed-to-buy-tickets](https://github.com/BasuPatil09/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/BasuPatil09/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/BasuPatil09/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/BasuPatil09/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -418,4 +422,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/BasuPatil09/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/BasuPatil09/LeetCode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 <!---LeetCode Topics End-->
